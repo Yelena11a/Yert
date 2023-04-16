@@ -1,0 +1,10 @@
+@import "general";
+@import "media";
+@import "variables";
+@import "mixins";
+@import "blocks/header";
+@import "blocks/buttons";
+
+* {
+    font-family: 'Museo Sans Cyrl', sans-serif;
+}
